@@ -1,1 +1,23 @@
-# 1-dars-js
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     
+
+    <title>Document</title>
+</head>
+<body onload="alert('Robot emasligingizni tasdiqlash uchun OK tugmasini bosing')">
+    
+
+ <label>
+      <input type="checkbox" id="notRobot">
+      Men robot emasman
+    </label>
+    <br><br>
+    <button type="submit">Tekshirish</button>
+  </form>
+
+
+
+
+</body>
+</html>
